@@ -1,4 +1,4 @@
 # idala-dlink-tools
 
 ## Tutorial used
-- https://github.com/GideonJagen/idala-dlink-tools.git
+- https://robocademy.com/2020/05/01/a-gentle-introduction-to-yolo-v4-for-object-detection-in-ubuntu-20-04/
