@@ -10,3 +10,9 @@ https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-
 ## Prerequisities
 - Python 3.8.10
 - All in requirements.txt
+
+## Get images
+run:
+´´´´bash
+sh data/getImages.sh path_to_json_folder_containing_images_info
+´´´´
