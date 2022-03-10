@@ -13,6 +13,6 @@ https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-
 
 ## Get images
 run:
-´´´´bash
+````bash
 sh data/getImages.sh path_to_json_folder_containing_images_info
-´´´´
+````
