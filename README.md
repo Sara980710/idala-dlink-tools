@@ -6,3 +6,7 @@
 - https://github.com/ageof/MyDlink-API-Python
 
 https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-
+
+## Prerequisities
+- Python 3.8.10
+- All in requirements.txt
